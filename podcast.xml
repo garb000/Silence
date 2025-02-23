@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Silence</title>
+        <link></link>
+        <description>Nothing but silence.</description>
+        <language>en-us</language>
+        <item>
+            <title>Silence 1</title>
+            <description>Nothing at all.</description>
+            <link>https://garb000.github.io/Silence/silence1.aac</link>
+            <guid>https://garb000.github.io/Silence/silence1.aac</guid>
+            <pubDate>Sun, 23 Feb 2025 10:04:24 +0800</pubDate>
+            <enclosure url="https://garb000.github.io/Silence/silence1.aac" type="audio/aac" length="21600128" />
+        </item>
+    </channel>
+</rss>
